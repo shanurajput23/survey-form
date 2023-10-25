@@ -1,0 +1,32 @@
+.outer-container {
+    background-color: blue; 
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+}
+.container {
+    width: 400px;
+    margin: 0 auto;
+    background-color: rgb(214, 214, 214); 
+    padding: 20px;
+    border-radius: 10px; 
+}
+.form-group {
+    margin-bottom: 10px;
+}
+.popup {
+    display: none;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    width: 100%;
+}
+.popup-container {
+    background-color: blue;
+    padding: 20px;
+    color: white;
+    width: 100%;
+}
+.form-group {
+    margin-bottom: 10px;
+}
